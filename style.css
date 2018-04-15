@@ -1,0 +1,44 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.top{
+    overflow: hidden;
+    float: right;
+    margin-left: 20px;
+}
+.common_margin{
+    margin-bottom: 40px,
+}
+
+.nav{
+
+}
+.nav ul{
+   float: right;
+    list-style: none;
+}
+.nav ul li{
+    padding: 54px;
+    float: left;
+    margin-top: -120px;
+    margin-right: 30px;
+}
+.nav ul li a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 22px
+}
+.image5 img{
+    padding-left: 50px;
+}
+.images3 img{
+    padding-left: 30px;
+}
+.image2 img{
+    padding-left: 30px;
+}
+.image1 img{
+    padding-left: 30px;
+}
